@@ -1,0 +1,42 @@
+p {
+    font-size: 37px;
+    font-weight: 800;
+}
+
+.x {
+    height: 300px;
+    width: 280px;
+    border: 5px rgb(35, 30, 30) solid;
+    background-image: url("https://1.bp.blogspot.com/-kp6Zq35Xhws/V4JO6O3DMXI/AAAAAAAAXpA/XoAp_DxbLZg8lrWCdXtT97gGXXVtgy6awCLcB/s1600/236513br.jpg");
+}
+
+.test2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    cursor: all-scroll;
+}
+
+iframe {
+    width: 300;
+}
+
+video {
+    width: 300;
+}
+
+.a {
+    cursor: all-scroll;
+}
+
+.board {
+    border: solid 2px black;
+    margin: right 5px;
+    margin: left 5px;
+    margin: top 2px;
+    padding-top: 2px;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    background-color: azure;
+}
